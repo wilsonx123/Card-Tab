@@ -11,14 +11,101 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="翡翠台4" group-title="電視台",翡翠台4
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 
+#EXTINF:-1 tvg-id="翡翠台4K" group-title="電視台",翡翠台4K
+http://cdn6.163189.xyz/163189/fct4k
+
+#EXTINF:-1 tvg-id="翡翠台(字幕)" group-title="電視台",翡翠台(字幕)
+http://mytv.cdn.loc.cc/o12.php?id=fct
+
 #EXTINF:-1 tvg-id="明珠台" group-title="電視台",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 #EXTINF:-1 tvg-id="明珠台2" group-title="電視台",明珠台2
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 
+#EXTINF:-1 tvg-id="明珠台(字幕)" group-title="電視台",明珠台(字幕)
+http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台北美版" group-title="電視台",翡翠台北美版
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 #EXTINF:-1 tvg-id="TVB J1" group-title="電視台",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+
+#EXTINF:-1 tvg-id="TVB Plus" group-title="電視台",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+
+#EXTINF:-1 tvg-id="TVB Plus2" group-title="電視台",TVB Plus2
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
+#EXTINF:-1 tvg-id="無綫新聞台" group-title="電視台",無綫新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+#EXTINF:-1 tvg-id="無綫新聞台2" group-title="電視台",無綫新聞台2
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
+#EXTINF:-1 tvg-id="TVB娛樂新聞台" group-title="電視台",TVB娛樂新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
+#EXTINF:-1 tvg-id="VIUTV" group-title="電視台",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
+#EXTINF:-1 tvg-id="VIUTV2" group-title="電視台",VIUTV2
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 tvg-id="HOY TV" group-title="電視台",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+#EXTINF:-1 tvg-id="HOY TV2" group-title="電視台",HOY TV2
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+#EXTINF:-1 tvg-id="RTHK31" group-title="電視台",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+
+#EXTINF:-1 tvg-id="RTHK32" group-title="電視台",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-1 tvg-id="Animax (HK)" group-title="娛樂",Animax (HK)
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="美亞電影" group-title="娛樂",美亞電影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:-1 tvg-id="重溫經典" group-title="娛樂",重溫經典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+#EXTINF:-1 tvg-id="龍華電影" group-title="娛樂",龍華電影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+
+#EXTINF:-1 tvg-id="龍華經典" group-title="娛樂",龍華經典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+
+#EXTINF:-1 tvg-id="龍華卡通" group-title="娛樂",龍華卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+
+#EXTINF:-1 tvg-id="龍華偶像" group-title="娛樂",龍華偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+
+#EXTINF:-1 tvg-id="龍華日韓" group-title="娛樂",龍華日韓
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+
+#EXTINF:-1 tvg-id="龍華戲劇" group-title="娛樂",龍華戲劇
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+
+#EXTINF:-1 tvg-id="龍華洋片" group-title="娛樂",龍華洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+
+#EXTINF:-1 tvg-id="天映頻道" group-title="娛樂",天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+
+#EXTINF:-1 tvg-id="天映經典" group-title="娛樂",天映經典
+http://php.jdshipin.com/smt.php?id=Celestial2
+
+#EXTINF:-1 tvg-id="亞洲武俠" group-title="娛樂",亞洲武俠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+#EXTINF:-1 tvg-id="翡翠劇集台" group-title="娛樂",翡翠劇集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+
+#EXTINF:-1 tvg-id="美亞電影台(HK)" group-title="娛樂",美亞電影台(HK)
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
