@@ -1,7 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="fct" tvg-name="TVB",TVB
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
-#EXTINF:-1 tvg-id="fct2" tvg-name="TVB",TVB
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",翡翠台北美版
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+
+#EXTGRP:電視台
+#EXTINF:-1 tvg-id="tvb" tvg-name="tvb",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
