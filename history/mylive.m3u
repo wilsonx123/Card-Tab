@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="fct" tvg-name="TVB",TVB
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-id="fct2" tvg-name="TVB",TVB
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
