@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/800px-TVB_Jade_logo.svg.png" group-title="電視台",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
