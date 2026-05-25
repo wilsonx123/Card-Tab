@@ -48,28 +48,34 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="翡翠劇集台" tvg-logo="https://corporate.tvb.com/_fck_/image/Drama.jpg" group-title="娛樂",翡翠劇集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
 
+#EXTINF:-1 tvg-id="TVB獎門人" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/69/TVB-Super_Trio_Game_Master.png" group-title="娛樂",TVB獎門人
+http://iptv.4666888.xyz/iptv2A.php?id=31
+
+#EXTINF:-1 tvg-id="TVB千禧經典" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="娛樂",TVB千禧經典
+http://o11.163189.xyz/stream/live/tvbc/
+
 #EXTINF:-1 tvg-id="Now新聞台" tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="電視台",Now新聞台
 https://cdn.163189.xyz/163189/now
 
-#EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/2560px-ViuTV_logo.svg.png" group-title="電視台",VIUTV
+#EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="電視台",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
-#EXTINF:-1 tvg-id="VIUTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/2560px-ViuTV_logo.svg.png" group-title="電視台",VIUTV2
+#EXTINF:-1 tvg-id="VIUTV2" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="電視台",VIUTV2
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
-#EXTINF:-1 tvg-id="VIUTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/2560px-ViuTV_logo.svg.png" group-title="電視台",VIUTV3
+#EXTINF:-1 tvg-id="VIUTV3" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="電視台",VIUTV3
 http://r.jdshipin.com/vSJvl
 
-#EXTINF:-1 tvg-id="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="電視台",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/250px-HOY_TV_Logo.svg.png" group-title="電視台",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
-#EXTINF:-1 tvg-id="HOY TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="電視台",HOY TV2
+#EXTINF:-1 tvg-id="HOY TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/250px-HOY_TV_Logo.svg.png" group-title="電視台",HOY TV2
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
-#EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="電視台",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/250px-RTHK_TV_31.svg.png" group-title="電視台",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 
-#EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="電視台",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/250px-RTHK_TV_32.svg.png" group-title="電視台",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1 tvg-id="美亞電影" tvg-logo="https://www.meiah.com/pImage/matv_promo6.jpg" group-title="娛樂",美亞電影
@@ -116,10 +122,3 @@ https://o11.163189.xyz/stream/live/ccm/
 
 #EXTINF:-1 tvg-id="亞洲武俠" tvg-logo="https://www.ign.com.cn/sm/ign_cn/game/w/wx/wx_7gnt.jpg" group-title="娛樂",亞洲武俠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-
-#EXTINF:-1 tvg-id="TVB獎門人" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/69/TVB-Super_Trio_Game_Master.png" group-title="娛樂",TVB獎門人
-http://iptv.4666888.xyz/iptv2A.php?id=31
-
-#EXTINF:-1 tvg-id="TVB千禧經典" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="娛樂",TVB千禧經典
-http://o11.163189.xyz/stream/live/tvbc/
-
