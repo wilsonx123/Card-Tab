@@ -25,16 +25,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 #EXTINF:-1 tvg-id="明珠台2" tvg-logo="https://www.tvchinese.net/uploads/tv/pearl.jpg" group-title="電視台",明珠台2
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-
-#EXTINF:-1 tvg-id="明珠台(字幕)" tvg-logo="https://www.tvchinese.net/uploads/tv/pearl.jpg" group-title="電視台",明珠台(字幕)
-http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 #EXTINF:-1 tvg-id="TVB J1" tvg-logo="https://pic.pngsucai.com/00/80/93/6fe31352fbd4e41f.webp" group-title="電視台",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 
 #EXTINF:-1 tvg-id="TVB Plus" tvg-logo="https://static.pc.yyb.qq.com/icon/95e3f2467f2ac34d196f6c813417fd2e.png" group-title="電視台",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+http://r.jdshipin.com/Nr5jq
 
 #EXTINF:-1 tvg-id="TVB Plus2" tvg-logo="https://static.pc.yyb.qq.com/icon/95e3f2467f2ac34d196f6c813417fd2e.png" group-title="電視台",TVB Plus2
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
@@ -50,6 +47,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 #EXTINF:-1 tvg-id="翡翠劇集台" tvg-logo="https://corporate.tvb.com/_fck_/image/Drama.jpg" group-title="娛樂",翡翠劇集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="電視台",Now新聞台
+https://cdn.163189.xyz/163189/now
 
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/2560px-ViuTV_logo.svg.png" group-title="電視台",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -72,9 +72,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="電視台",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
-#EXTINF:-1 tvg-id="Animax (HK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" group-title="娛樂",Animax (HK)
-http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-
 #EXTINF:-1 tvg-id="美亞電影" tvg-logo="https://www.meiah.com/pImage/matv_promo6.jpg" group-title="娛樂",美亞電影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
@@ -91,7 +88,7 @@ http://cdn8.163189.xyz/163189/lhdy
 http://cdn8.163189.xyz/163189/lhjd
 
 #EXTINF:-1 tvg-id="龍華卡通" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_mobile.png" group-title="娛樂",龍華卡通
-http://cdn8.163189.xyz/163189/lhkt
+http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang01
 
 #EXTINF:-1 tvg-id="龍華偶像" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1904_20210127105232.png" group-title="娛樂",龍華偶像
 http://cdn8.163189.xyz/163189/lhox
@@ -103,13 +100,13 @@ http://cdn8.163189.xyz/163189/lhrh
 http://cdn8.163189.xyz/163189/lhxj
 
 #EXTINF:-1 tvg-id="龍華洋片" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_pc.png" group-title="娛樂",龍華洋片
-http://cdn8.163189.xyz/163189/lhyp
+http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang02
 
 #EXTINF:-1 tvg-id="天映頻道" tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_celestial.jpg" group-title="娛樂",天映頻道
-http://php.jdshipin.com/smt.php?id=Celestial
+https://o11.163189.xyz/stream/live/typd/
 
 #EXTINF:-1 tvg-id="天映經典" tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_classic.jpg" group-title="娛樂",天映經典
-http://php.jdshipin.com/smt.php?id=Celestial2
+https://o11.163189.xyz/stream/live/ccm/
 
 #EXTINF:-1 tvg-id="亞洲武俠" tvg-logo="https://www.ign.com.cn/sm/ign_cn/game/w/wx/wx_7gnt.jpg" group-title="娛樂",亞洲武俠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
