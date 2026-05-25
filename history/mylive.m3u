@@ -13,7 +13,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-logo="https://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="電視台",翡翠台4K
-http://cdn6.163189.xyz/163189/fct4k
+https://o11.163189.xyz/stream/tvb/fct4k/
 
 #EXTINF:-1 tvg-id="翡翠台(字幕)" tvg-logo="https://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="電視台",翡翠台(字幕)
 http://mytv.cdn.loc.cc/o12.php?id=fct
