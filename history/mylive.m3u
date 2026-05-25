@@ -102,6 +102,12 @@ http://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 tvg-id="龍華洋片" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_pc.png" group-title="娛樂",龍華洋片
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang02
 
+#EXTINF:-1 tvg-id="龍華洋片2" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_pc.png" group-title="娛樂",龍華洋片2
+http://iptv.4666888.xyz/iptv2A.php?id=60
+
+#EXTINF:-1 tvg-id="靖天電影" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn02_pc.png" group-title="娛樂",靖天電影
+http://iptv.4666888.xyz/iptv2A.php?id=56
+
 #EXTINF:-1 tvg-id="天映頻道" tvg-logo="https://www.celestialpictures.com/images/new/logo_channel_celestial.jpg" group-title="娛樂",天映頻道
 https://o11.163189.xyz/stream/live/typd/
 
@@ -110,4 +116,10 @@ https://o11.163189.xyz/stream/live/ccm/
 
 #EXTINF:-1 tvg-id="亞洲武俠" tvg-logo="https://www.ign.com.cn/sm/ign_cn/game/w/wx/wx_7gnt.jpg" group-title="娛樂",亞洲武俠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+#EXTINF:-1 tvg-id="TVB獎門人" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/69/TVB-Super_Trio_Game_Master.png" group-title="娛樂",TVB獎門人
+http://iptv.4666888.xyz/iptv2A.php?id=31
+
+#EXTINF:-1 tvg-id="TVB千禧經典" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d2/TVB_Classic.png" group-title="娛樂",TVB千禧經典
+http://o11.163189.xyz/stream/live/tvbc/
 
