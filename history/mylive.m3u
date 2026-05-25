@@ -66,6 +66,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-id="VIUTV3" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="電視台",VIUTV3
 http://r.jdshipin.com/vSJvl
 
+#EXTINF:-1 tvg-id="VIUTV6" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122" group-title="電視台",VIUTV6
+https://cdn10.163189.xyz/163189/dcd63a47-61e9-4bae-8af3-fca15f2d002b/
+
 #EXTINF:-1 tvg-id="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/250px-HOY_TV_Logo.svg.png" group-title="電視台",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
